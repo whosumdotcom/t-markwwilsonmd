@@ -1,0 +1,36 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-07T13:16:58Z",
+  "IdClaims": [
+    {
+      "Claim": "t:markwwilsonmd"
+    },
+    {
+      "Claim": "spout:markwilsonmd"
+    },
+    {
+      "Claim": "post:markwilsonmd"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "e5fc1be02624685e208c0619",
+    "Timestamp": "2023-04-07T13:20:52Z",
+    "Signature": "9dafe47b42b50de8496abd1aeb460c23f8c9e3259125d5dd2dcd372fc30e6841744c6d5586533c591f33fa377e09cf5e7034053abe311ba5eeccec9f6345dfbd69c09ba8b01af360a3bfc9fbb330c1d55a8e2c6c0592ffe0a46007706202aab13fec93e5ddac2b31ab370398e6fdefa72fcbc0f3b25d63ecd3fae6cb3c9b5632db2de2e593f7980879facd609b87e90f4c7072abbc10911c1f471821414c23026066154df4d781327ac0b56deca19182a61a4d204ead76ea35a81ee25fd2a5030d25517e83429762621ebc34d87e5fc28673fe2e64862bbb5d7afacc0ecae52a378af481b181df5c1ac3995f8d9aeccfaa456bb2833e53113ec73256f82ac9c0"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "4872b27a9bc92c22cad98a7ea30f9ec5890fa47062fe9f8dcab6e792871f6fcb",
+  "ContentToHash": "v1|med:no-account,pat:no-account,post:markwilsonmd,spout:markwilsonmd,ss:no-account,t:markwwilsonmd|2023-04-07T13:16:58Z"
+}
